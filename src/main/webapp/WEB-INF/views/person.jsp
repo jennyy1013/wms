@@ -37,7 +37,7 @@
 	<tr>
 		<td>
 			<form:label path="name">
-				<spring:message text="Name"/>
+				<spring:message text="HelloHello"/>
 			</form:label>
 		</td>
 		<td>
