@@ -73,7 +73,7 @@
 <c:if test="${!empty listPersons}">
 	<table class="tg">
 	<tr>
-		<th width="80">Person ID</th>
+		<th width="80">Persons ID</th>
 		<th width="120">Person Name</th>
 		<th width="120">Person Country</th>
 		<th width="60">Edit</th>
